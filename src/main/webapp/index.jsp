@@ -39,7 +39,7 @@
         <h2>Gift Card</h2>
         <img src="giftcard.png" alt="Gift Card">
         <p><strong>Code:</strong> 1234-5678-ABCD</p>
-        <p>Enjoy your gift!</p>
+        <p>Enjoy your gift!!!</p>
     </div>
 </body>
 
